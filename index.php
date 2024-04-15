@@ -11,7 +11,7 @@
 <body>
     <?php include("nav.php"); ?>
     <div class="container d-flex justify-content-center">
-        <h1>รายจ่ายของหนูจล หี</h1>
+        <h1>รายจ่ายของหนูจล</h1>
     </div>
     
     
